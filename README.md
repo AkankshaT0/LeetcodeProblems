@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
