@@ -5,9 +5,12 @@ class Solution {
 
         while(n > 0){
 
+             // Extract last digit
             int digit = n % 10;
 
             if(digit >= largest){
+
+                // Current largest becomes second largest
                 secondLargest = largest;
                 largest = digit;
             }
@@ -15,6 +18,7 @@ class Solution {
                 secondLargest = digit;
             }
 
+            // Remove last digit
             n /= 10;
         }
         return largest * secondLargest;
