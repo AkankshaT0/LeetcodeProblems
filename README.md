@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1406-stone-game-iii) |
