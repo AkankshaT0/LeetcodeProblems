@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 ## Quicksort
 |  |
 | ------- |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3310-remove-methods-from-project) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
