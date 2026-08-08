@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0567-permutation-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3731-find-missing-elements) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
