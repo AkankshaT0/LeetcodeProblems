@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -119,16 +121,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
