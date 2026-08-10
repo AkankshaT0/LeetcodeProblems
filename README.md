@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1406-stone-game-iii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
