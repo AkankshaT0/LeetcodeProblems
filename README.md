@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0567-permutation-in-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 ## Math
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
