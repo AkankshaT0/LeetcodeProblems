@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0342-power-of-four) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 ## Quicksort
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
