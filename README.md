@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0344-reverse-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/AkankshaT0/LeetcodeProblems/tree/master/1140-stone-game-ii) |
